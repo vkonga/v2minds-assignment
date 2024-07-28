@@ -29,7 +29,7 @@ This is a simple notes application built with a React frontend and a Node.js/Exp
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-repo/notes-app.git
+   git clone https://github.com/vkonga/v2minds-assis.git
    cd v2minds-assis
    
 
